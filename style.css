@@ -320,3 +320,11 @@ hr{
     flex-basis: 40%;
 
 }
+.social-icons{
+    top: 30%;
+    margin-left: 20px;
+}
+.fa-brands{
+    font-size: 30px;
+    margin-top: 10px;
+}
